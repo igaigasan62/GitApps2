@@ -25,3 +25,12 @@ Screen2 As screen:
         Y: =40
         ZIndex: =2
 
+    Label4_1 As label:
+        Height: =164
+        Size: =50
+        Text: ="ツケメン"
+        Width: =322
+        X: =345
+        Y: =40
+        ZIndex: =3
+
