@@ -34,3 +34,12 @@ Screen2 As screen:
         Y: =40
         ZIndex: =3
 
+    Label4_2 As label:
+        Height: =164
+        Size: =50
+        Text: ="boku "
+        Width: =322
+        X: =637
+        Y: =40
+        ZIndex: =4
+
