@@ -1,2 +1,8 @@
 Screen2 As screen:
 
+    Label3 As label:
+        Text: ="お腹すいてきた"
+        X: =405
+        Y: =177
+        ZIndex: =1
+
