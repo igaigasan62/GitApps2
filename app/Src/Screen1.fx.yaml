@@ -9,3 +9,9 @@ Screen1 As screen:
         Y: =168
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="お昼ご飯"
+        X: =189
+        Y: =447
+        ZIndex: =2
+
