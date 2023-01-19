@@ -9,3 +9,9 @@ Screen2 As screen:
         Y: =228
         ZIndex: =1
 
+    Label3 As label:
+        Text: ="お腹すいてきた"
+        X: =405
+        Y: =177
+        ZIndex: =1
+
