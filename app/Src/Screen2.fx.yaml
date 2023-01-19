@@ -28,7 +28,7 @@ Screen2 As screen:
     Label4_1 As label:
         Height: =164
         Size: =50
-        Text: ="つけ麺"
+        Text: ="ツケメン"
         Width: =322
         X: =345
         Y: =40
