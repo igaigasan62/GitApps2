@@ -1,4 +1,5 @@
 Screen2 As screen:
+    Fill: =
 
     Label1_1 As label:
         Height: =157
@@ -14,4 +15,13 @@ Screen2 As screen:
         X: =405
         Y: =177
         ZIndex: =1
+
+    Label4 As label:
+        Height: =164
+        Size: =50
+        Text: ="ラーメン"
+        Width: =322
+        X: =40
+        Y: =40
+        ZIndex: =2
 
