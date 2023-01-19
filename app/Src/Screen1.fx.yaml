@@ -18,3 +18,8 @@ Screen1 As screen:
         Y: =447
         ZIndex: =2
 
+    Rectangle1 As rectangle:
+        X: =314
+        Y: =68
+        ZIndex: =3
+
