@@ -1,3 +1,18 @@
 Screen2 As screen:
     Fill: =
 
+    Label1_1 As label:
+        Height: =157
+        Size: =50
+        Text: ="今日のランチは何？"
+        Width: =740
+        X: =269
+        Y: =228
+        ZIndex: =1
+
+    Label3 As label:
+        Text: ="お腹すいてきた"
+        X: =405
+        Y: =177
+        ZIndex: =1
+
