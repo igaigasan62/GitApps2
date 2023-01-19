@@ -10,7 +10,10 @@ Screen1 As screen:
         ZIndex: =1
 
     Label2 As label:
-        Text: ="お昼ご飯"
+        Height: =145
+        Size: =30
+        Text: ="お昼ご飯 食べたい"
+        Width: =400
         X: =189
         Y: =447
         ZIndex: =2
